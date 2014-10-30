@@ -1,0 +1,8 @@
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.exe.config
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.exe
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\bin\Debug\ScientificCalculatorApp.pdb
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.ScientificCalculatorUI.resources
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.Properties.Resources.resources
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.csproj.GenerateResource.Cache
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.exe
+E:\OFFICE\INDEX GROUP\Software Development\ScientificCalculatorApp\ScientificCalculatorApp\obj\Debug\ScientificCalculatorApp.pdb

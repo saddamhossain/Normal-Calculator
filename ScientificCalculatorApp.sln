@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScientificCalculatorApp", "ScientificCalculatorApp\ScientificCalculatorApp.csproj", "{D7F2D302-1C3D-4188-A47B-06E3D47287A6}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Index Calculator", "Index Calculator\Index Calculator.isproj", "{08485319-9903-4C83-813F-6BABDC1F0C1F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6} = {D7F2D302-1C3D-4188-A47B-06E3D47287A6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F2D302-1C3D-4188-A47B-06E3D47287A6}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.Debug|Any CPU.ActiveCfg = DVD-5
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.Debug|Any CPU.Build.0 = DVD-5
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.DVD-5|Any CPU.Build.0 = DVD-5
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.Release|Any CPU.ActiveCfg = SingleImage
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.Release|Any CPU.Build.0 = SingleImage
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{08485319-9903-4C83-813F-6BABDC1F0C1F}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
